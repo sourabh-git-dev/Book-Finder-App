@@ -12,7 +12,7 @@ A React application to search and explore books using the Open Library API.
 React, JavaScript (ES6), CSS, OpenLibrary API
 
 ## 🔗 Live Demo
-[View on CodeSandbox]((https://pscqhq-5173.csb.app/)
+[View on CodeSandbox] [https://pscqhq-5173.csb.app/]
 
 ## 💾 Installation
 1. Clone the repo  
