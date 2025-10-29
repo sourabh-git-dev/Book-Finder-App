@@ -2,6 +2,8 @@
 
 A React application to search and explore books using the Open Library API.
 
+API used: https://openlibrary.org/search.json?title={bookTitle}
+
 ## 🚀 Features
 - Search books by **title or author**
 - Displays **default recommended books** on load
