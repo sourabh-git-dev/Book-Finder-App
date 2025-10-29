@@ -1,18 +1,26 @@
-# React + Vite
+# 📚 Book Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application to search and explore books using the Open Library API.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Search books by **title or author**
+- Displays **default recommended books** on load
+- Responsive design for mobile, tablet, and desktop
+- Built using **React & plain CSS**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Tech Stack
+React, JavaScript (ES6), CSS, OpenLibrary API
 
-## React Compiler
+## 🔗 Live Demo
+[View on CodeSandbox]((https://pscqhq-5173.csb.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 💾 Installation
+1. Clone the repo  
+   `git clone https://github.com/YOUR_USERNAME/book-finder-react.git`
+2. Install dependencies  
+   `npm install`
+3. Run locally  
+   `npm start`
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Book-Finder-App" 
-"# Book-Finder-App" 
+## 👨‍💻 Developer
+**Sourabh George**
